@@ -1,1 +1,0 @@
-# Clone_application
